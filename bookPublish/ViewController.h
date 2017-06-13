@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "ViewSearchController.h"
 @interface ViewController : UIViewController
 
 
